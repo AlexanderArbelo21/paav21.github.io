@@ -488,7 +488,7 @@
 	}
 	
 	a.button-alt:hover{
-		background-image: url(./images/hacker.gif) ;
+		background-image: url(https://i.gifer.com/IYqM.gif) ;
 	}
 
 	.button-alt
@@ -608,7 +608,7 @@
 	{
 		position: relative;
 		padding: 5em 0em 7em 0em;
-		background: #ffffff url(images/header-bg.jpg) no-repeat center;
+		background: #ffffff url(https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/e0c50a66050921.5c8329daa2722.png) no-repeat center;
 		background-size: cover;
 	}
 
@@ -790,7 +790,7 @@
 	{
 		position: relative;
 		padding: 7em 0em 7em 0em;
-		background-image: url(/images/popular.png);
+		background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/50219166050921.5c8329da83af2.png);
 		background-size: cover;
 		text-align: center;
 	}
