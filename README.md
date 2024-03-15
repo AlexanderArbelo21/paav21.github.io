@@ -35,7 +35,11 @@ winget install --id Git.Git -e --source winget
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="150"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="150" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="150" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="150"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="150" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"  width="150" />
 
-Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
+## Recursos de administración utilizados: 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="150" />
+
+Para utilizar estos recursos hemos utilizado los planes gratuitos limitados, una de las ideas principales de este proyecto es demostrar que se pueden crear soluciones seguras con herramientas gratuitas.
 
 [LIVE PREVIEW](http://buckymaler.com/global)
 
