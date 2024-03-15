@@ -4,17 +4,27 @@
 
 ## Cloudflare
 
-`Cloudflare` es un **servidor** *proxy inverso*, lo cual quiere decir que recibe solicitudes y envía respuestas por cuenta de los *^*servidores**, que es lo mismo que hace un **servidor** proxy de reenvío* por cuenta de los **clientes**.
+`Cloudflare` es una plataforma global en la nube diseñada para que todos los recursos conectados a Internet sean seguros, privados, rápidos y fiables.
+
+- [x] Protege y acelera tus propiedades web
+> Protege y acelera tus aplicaciones, API y sitios web en minutos dirigiendo tu DNS a Cloudflare.
+
+- [x] Sin desventajas para el rendimiento
+> Elimina la latencia causada por la seguridad integrando los servicios de rendimiento de Cloudflare.
+
+- [x] La red global en la nube más rápida para aplicaciones web
+> Hemos desarrollado una red global diseñada para optimizar la seguridad, el rendimiento y la fiabilidad, sin la carga de las tecnologías heredadas.
+
 
 En esta página web hemos implementado `Cloudflare` para desarrollar nuestro proyecto *FCT*. Nuestro proyecto se ha desarrollado principalmente en un **entorno Web**, el **objetivo** es implementar una *solución informática* capaz de administrarse desde todo tipo de motores de búsqueda con versatilidad entre diferentes entornos de desarrollo y administracion de sistemas. 
 
 **Cloudflare** es una herramienta que facilita la interconexion entre los diferentes servidores de todo el mundo para la alta disponibilidad, ofreciendo hipernconectividad en una de las mayores redes, alta seguridad a nivel de protocolos utilizando el *modelo osi* en cada una de las capas que comprenda la solucion informatica que deseemos administrar, entre muchos otros recursos de gran utilidad para los administradores de sistemas y redes.
 
-> [!NOTE]
-> La página web que hemos desarrollado para el proyecto ha sido configurada a partir de la siguiente [plantilla](https://www.behance.net/SergeyMelnik).
+[!NOTE]
+La página web que hemos desarrollado para el proyecto ha sido configurada a partir de la siguiente [plantilla](https://www.behance.net/SergeyMelnik).
 
-> [!IMPORTANT]
-> Para descargar el proyecto se requiere previamente instalar el controlador de versiones [Git](https://Git-scm.com/downloads).
+[!IMPORTANT]
+Para descargar el proyecto se requiere previamente instalar el controlador de versiones [Git](https://Git-scm.com/downloads).
 
 `GNU/Linux`
 
