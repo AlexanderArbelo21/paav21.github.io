@@ -4,7 +4,7 @@ En esta página web hemos implementado **Cloudflare** para desarrollar nuestro p
 
 **Cloudflare** es una herramienta que facilita la interconexion entre los diferentes servidores de todo el mundo para la alta disponibilidad, ofreciendo hipernconectividad en una de las mayores redes, alta seguridad a nivel de protocolos utilizando el *modelo osi* en cada una de las capas que comprenda la solucion informatica que deseemos administrar, entre muchos otros recursos de gran utilidad para los administradores de sistemas y redes.
 
-[!NOTE]
+> [!NOTE]
 > La página web que hemos desarrollado para el proyecto ha sido configurada a partir de la siguiente [plantilla](https://www.behance.net/SergeyMelnik).
 
 > [!IMPORTANT]
