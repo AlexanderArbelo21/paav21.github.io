@@ -23,7 +23,7 @@ Este proyecto ha sido desarrollado mediante una página web, implementando la pl
 
 ## Recursos utilizados
 
-Filosofia del proyecto: 
+**Filosofia del proyecto:** 
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ~ Open Source, Open Mind...
 
