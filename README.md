@@ -7,13 +7,13 @@
 `Cloudflare` es una plataforma global en la nube diseñada para que todos los recursos conectados a Internet sean seguros, privados, rápidos y fiables.
 
 - Protege y acelera tus propiedades web:
-Protege y acelera tus aplicaciones, API y sitios web en minutos dirigiendo tu DNS a `Cloudflare`.
+Protege y acelera tus aplicaciones, **API** y **sitios web** en minutos dirigiendo tu **DNS** a `Cloudflare`.
 
 - Sin desventajas para el rendimiento:
-Elimina la latencia causada por la seguridad integrando los servicios de rendimiento de `Cloudflare`.
+Elimina la **latencia** causada por la **seguridad** integrando los servicios de rendimiento de `Cloudflare`.
 
 - La red global en la nube más rápida para aplicaciones web:
-Red global diseñada para optimizar la seguridad, el rendimiento y la fiabilidad, sin la carga de las tecnologías heredadas.
+**Red global** diseñada para optimizar la **seguridad**, el **rendimiento** y la **fiabilidad**, sin la carga de las tecnologías heredadas.
 
 En esta página web hemos implementado `Cloudflare` para desarrollar nuestro proyecto *FCT*. Nuestro proyecto se ha desarrollado principalmente en un **entorno Web**, el **objetivo** es implementar una *solución informática* capaz de administrarse desde todo tipo de motores de búsqueda con versatilidad entre diferentes entornos de desarrollo y administracion de sistemas. 
 
