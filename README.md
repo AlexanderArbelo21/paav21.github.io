@@ -27,7 +27,10 @@ Filosofia del proyecto:
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ~ Open Source, Open Mind...
 
->[!NOTE]
+Este proyecto se ha realizado utilizando recursos de código abierto y libres de uso publicados en Internet, hemos decidido crear nuestro proyecto sin coste alguno para demostrar las capacidades de investigación y administración de las diferentes tecnologías que hemos adquirido tras finalizar el Ciclo Superior. Por otro lado, limitando el coste de los servicios que hemos decidido utilizar, también podemos demostrar que se pueden implementar soluciones seguras como `Cloudflare` donde la verdadera limitación es la imaginación y el tiempo de trabajo.
+
+
+
 >La página web que hemos desarrollado para el proyecto ha sido configurada a partir de la siguiente [plantilla](https://www.behance.net/SergeyMelnik).
 
 [!IMPORTANT]
