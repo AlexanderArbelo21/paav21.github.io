@@ -11,12 +11,12 @@ En esta página web hemos implementado **Cloudflare** para desarrollar nuestro p
 > Para descargar el proyecto se requiere previamente instalar el controlador de versiones [Git](https://Git-scm.com/downloads).
 
 `GNU/Linux`
-**Debian/Ubuntu**:
+- **Debian/Ubuntu**
 ```
 apt-get install git
 ```
 `Microsoft Windows`
-**PowerShell**
+- **PowerShell**
 ```
 winget install --id Git.Git -e --source winget
 ```
