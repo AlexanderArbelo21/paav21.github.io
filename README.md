@@ -7,7 +7,6 @@ En esta página web hemos implementado **Cloudflare** para desarrollar nuestro p
 > [!NOTE]
 > La página web que hemos desarrollado para el proyecto ha sido configurada a partir de la siguiente plantilla: [plantilla]().
 
-
 > [!IMPORTANT]
 > Para descargar el proyecto se requiere previamente instalar el controlador de versiones [Git](https://Git-scm.com/downloads).
 
@@ -21,8 +20,6 @@ apt-get install git
 ```
 winget install --id Git.Git -e --source winget
 ```
-
-
 
 > [!CAUTION]
 > El proyecto que hemos desarrollado a traves de la herramienta cloudflare y el resto de recursos implementados posteriormente se limita bajo la iniciativa `Opensource`, nuestro proyecto no tiene ningun tipo de licencia y todos los derechos de copyrigth estan reservados a los autores originales. El fin de desarrollar este proyecto ha sido exclusivamente educativo, por lo que ninguno de los autores que hemos desarrollado este proyecto libremente hemos obtenido redito economico, tampoco hemos obtenido un beneficio profesional ni particular.
