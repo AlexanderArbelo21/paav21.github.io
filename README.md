@@ -1,10 +1,12 @@
 # Proyecto FCT - Cloudflare
 
+Es un módulo profesional que integra las diversas habilidades y conocimientos del currículum del ciclo formativo, tanto en su vertiente laboral, como en el ejercicio profesional y la gestión empresarial. El objetivo de este proyecto es investigar y desarrollar un producto tecnológico de carácter empresarial que reuna los aprendizaje de los diferentes módulos del ciclo superior de Administración de Sistemas Informáticos en Red como solución comercial para los centros de trabajo donde se realizan las prácticas.
+
 ⭐ Link del proyecto: [Cloudflare](https://saruggs.github.io/cloudflare/source%20code/index.html) 
 
 ## Cloudflare
 
-`Cloudflare` es una plataforma global en la nube diseñada para que todos los recursos conectados a Internet sean seguros, privados, rápidos y fiables.
+Es una plataforma global en la *nube* diseñada para que todos los recursos conectados a *Internet* sean **seguros**, **privados**, **rápidos** y **fiables**.
 
 - Protege y acelera tus propiedades web:
 Protege y acelera tus aplicaciones, **API** y **sitios web** en minutos dirigiendo tu **DNS** a `Cloudflare`.
@@ -15,12 +17,18 @@ Elimina la **latencia** causada por la **seguridad** integrando los servicios de
 - La red global en la nube más rápida para aplicaciones web:
 **Red global** diseñada para optimizar la **seguridad**, el **rendimiento** y la **fiabilidad**, sin la carga de las tecnologías heredadas.
 
-En esta página web hemos implementado `Cloudflare` para desarrollar nuestro proyecto *FCT*. Nuestro proyecto se ha desarrollado principalmente en un **entorno Web**, el **objetivo** es implementar una *solución informática* capaz de administrarse desde todo tipo de motores de búsqueda con versatilidad entre diferentes entornos de desarrollo y administracion de sistemas. 
+## Desarrollo del Proyecto
 
-**Cloudflare** es una herramienta que facilita la interconexion entre los diferentes servidores de todo el mundo para la alta disponibilidad, ofreciendo hipernconectividad en una de las mayores redes, alta seguridad a nivel de protocolos utilizando el *modelo osi* en cada una de las capas que comprenda la solucion informatica que deseemos administrar, entre muchos otros recursos de gran utilidad para los administradores de sistemas y redes.
+Este proyecto ha sido desarrollado mediante una página web, implementando la plataforma `Cloudflare`, con el fin de integrar todo tipo de servicios y soluciones de ciberseguridad en un entorno web interconectado con múliples nodos/servidores fácil de administrar desde cualquier motor de búsqueda. Por otro lado hemos desarrollado nuestro proyecto en diferentes sistemas virtualizados para realizar prácticas de pentesting con el objetivo de investigar y analizar la disponibilidad de nuestra infraestructura.  
 
-[!NOTE]
-La página web que hemos desarrollado para el proyecto ha sido configurada a partir de la siguiente [plantilla](https://www.behance.net/SergeyMelnik).
+## Recursos utilizados
+
+Filosofia del proyecto: 
+
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ~ Open Source, Open Mind...
+
+>[!NOTE]
+>La página web que hemos desarrollado para el proyecto ha sido configurada a partir de la siguiente [plantilla](https://www.behance.net/SergeyMelnik).
 
 [!IMPORTANT]
 Para descargar el proyecto se requiere previamente instalar el controlador de versiones [Git](https://Git-scm.com/downloads).
