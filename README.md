@@ -10,7 +10,7 @@ En esta página web hemos implementado **Cloudflare** para desarrollar nuestro p
 ```
 
 ```
-> Para descargar el proyecto se requiere previamente el controlador de versiones [git](https://git-scm.com/downloads)
+> Para descargar el proyecto se requiere previamente el controlador de versiones [git](https://git-scm.com/downloads).
 
 - [ `Linux` ]
 
