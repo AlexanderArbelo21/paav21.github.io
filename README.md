@@ -24,7 +24,7 @@ winget install --id Git.Git -e --source winget
 > [!CAUTION]
 > El proyecto que hemos desarrollado a traves de la herramienta cloudflare y el resto de recursos implementados posteriormente se limita bajo la iniciativa `Opensource`, nuestro proyecto no tiene ningun tipo de licencia y todos los derechos de copyrigth estan reservados a los autores originales. El fin de desarrollar este proyecto ha sido exclusivamente educativo, por lo que ninguno de los autores que hemos desarrollado este proyecto libremente hemos obtenido redito economico, tampoco hemos obtenido un beneficio profesional ni particular.
 
-Los lenguajes de programación utilizados: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+Los lenguajes de programación utilizados: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="250"/>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
           
 
