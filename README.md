@@ -1,3 +1,5 @@
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg"/>
+
 # Proyecto FCT - Cloudflare
 
 En esta página web hemos implementado **Cloudflare** para desarrollar nuestro proyecto *FCT*. Nuestro proyecto se ha desarrollado principalmente en un entorno Web, el objetivo es implementar una solución informática capaz de administrarse desde todo tipo de motores de búsqueda con versatilidad entre diferentes entornos de desarrollo y administracion de sistemas. 
