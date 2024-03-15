@@ -1,6 +1,6 @@
 # Proyecto FCT - Cloudflare
 
-⭐ Link del proyecto: [Cloudflare](saruggs.github.io/cloudflare/source%20code/index.hmtl) 
+⭐ Link del proyecto: [Cloudflare](https://saruggs.github.io/cloudflare/source%20code/index.html) 
 
 En esta página web hemos implementado `Cloudflare` para desarrollar nuestro proyecto *FCT*. Nuestro proyecto se ha desarrollado principalmente en un **entorno Web**, el **objetivo** es implementar una *solución informática* capaz de administrarse desde todo tipo de motores de búsqueda con versatilidad entre diferentes entornos de desarrollo y administracion de sistemas. 
 
