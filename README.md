@@ -33,9 +33,9 @@ Este proyecto se ha realizado utilizando recursos de código abierto y libres de
 
 - Plantilla página web:
 
-[Código fuente](https://github.com/BuckyMaler/global)
+Descarga el [Código fuente](https://github.com/BuckyMaler/global).
 
-[Autor](https://dribbble.com/sergeymelnik)
+Apoya al [Autor](https://dribbble.com/sergeymelnik) original.
 
 ### Descarga del proyecto
 
