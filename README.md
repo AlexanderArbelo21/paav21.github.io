@@ -37,7 +37,7 @@ Descarga el [Código fuente](https://github.com/BuckyMaler/global).
 
 Apoya al [Autor](https://dribbble.com/sergeymelnik) original.
 
-### Descarga del proyecto
+## Descarga del proyecto
 
 Para descargar el proyecto se requiere previamente instalar el controlador de versiones [Git](https://Git-scm.com/downloads).
 
@@ -55,6 +55,29 @@ apt-get install git
 
 ```
 winget install --id Git.Git -e --source winget
+```
+
+Procedimiento para clonar repositorio:
+
+1. En GitHub.com, navega a la página principal del repositorio ⌨
+
+2. Encima de la lista de archivos, haz clic en < > Código
+
+3. Copia la dirección URL del repositorio ❐
+
+4. En la terminal utilizar el siguiente comando:
+
+`HTTPS`
+```
+git clone https://github.com/SaruGGS/saruggs.github.io.git
+```
+`SSH`
+```
+git@github.com:SaruGGS/saruggs.github.io.git
+```
+`GitHub CLI`
+```
+gh repo clone SaruGGS/saruggs.github.io
 ```
 
 ## Lenguajes de programación utilizados: 
