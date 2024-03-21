@@ -29,7 +29,7 @@ Este proyecto ha sido desarrollado mediante una página web, implementando la pl
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ~ Open Source, Open Mind...
 
-Este proyecto se ha realizado utilizando recursos de código abierto y libres de uso publicados en Internet, hemos decidido crear nuestro proyecto sin coste alguno para demostrar las capacidades de investigación y administración de las diferentes tecnologías que hemos adquirido tras finalizar el Ciclo Superior. Por otro lado, limitando el coste de los servicios que hemos decidido utilizar, también podemos demostrar que se pueden implementar soluciones seguras como `Cloudflare` donde la verdadera limitación es la imaginación y el tiempo de trabajo.
+Este proyecto se ha realizado utilizando recursos de código abierto y libres de uso publicados en Internet, hemos decidido crear nuestro proyecto bjo el menor coste posible, adquiriendo unicamente un domin name para demostrar las capacidades de investigación y administración de las diferentes tecnologías que hemos adquirido tras finalizar el Ciclo Superior. Por otro lado, limitando el coste de los servicios que hemos decidido utilizar, también podemos demostrar que se pueden implementar soluciones seguras como `Cloudflare` donde la verdadera limitación es la imaginación y las ganas de aprender.
 
 - Plantilla página web:
 
