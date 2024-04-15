@@ -79,7 +79,7 @@ winget install --id Git.Git -e --source winget
 4. En la terminal utilizar el siguiente comando:
 
 > [!CAUTION]
-> Compruebe previamente que tiene previamente el controlador de versiones necesario instalado o posee un **token** de la *API* de **GitHub**.
+> Compruebe previamente que tiene  el controlador de versiones necesario instalado o posee un **token** de la *API* de **GitHub**.
 
 `HTTPS`
 ```
