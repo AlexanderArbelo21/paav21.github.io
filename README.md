@@ -13,14 +13,14 @@ Es una plataforma global en la *nube* diseñada para que todos los recursos cone
 ☁️ Link del servicio: [Cloudflare](https://www.cloudflare.com/) 
 
 > [!NOTE]
-> **Protege y acelera tus propiedades web**:
+> **Protege y acelera tus propiedades web**.
 
--  Protege y acelera tus aplicaciones, **API** y **sitios web** en minutos dirigiendo tu **DNS** a `Cloudflare`.
-
--  Sin desventajas para el rendimiento: Elimina la **latencia** causada por la **seguridad** integrando los servicios de rendimiento de `Cloudflare`.
-
--  La red global en la nube más rápida para aplicaciones web: **Red global** diseñada para optimizar la **seguridad**, el **rendimiento** y la **fiabilidad**, sin la carga de las tecnologías heredadas.
-
+> [!IMPORTANT]
+> Protege y acelera tus aplicaciones, **API** y **sitios web** en minutos dirigiendo tu **DNS** a `Cloudflare`.
+>
+> Sin desventajas para el rendimiento: Elimina la **latencia** causada por la **seguridad** integrando los servicios de rendimiento de `Cloudflare`
+>
+> La red global en la nube más rápida para aplicaciones web: **Red global** diseñada para optimizar la **seguridad**, el **rendimiento** y la **fiabilidad**, sin la carga de las tecnologías heredadas.
 
 ## Desarrollo del Proyecto
 
@@ -40,14 +40,13 @@ Este proyecto se ha realizado utilizando recursos de código abierto y libres de
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ~ Open Source, Open Mind...
 
 
-
 ## Descarga del proyecto
 
-Para descargar el proyecto se requiere previamente instalar el controlador de versiones [Git](https://Git-scm.com/downloads).
+:octocat: Para descargar el proyecto se requiere previamente instalar el controlador de versiones [Git](https://Git-scm.com/downloads).
 
 `GNU/Linux`
 
-- **Debian/Ubuntu**
+🐧 **Debian/Ubuntu**
 
 ```
 apt-get install git
@@ -55,21 +54,25 @@ apt-get install git
 
 `Microsoft Windows`
 
-- **PowerShell**
+🪟 **PowerShell**
 
 ```
 winget install --id Git.Git -e --source winget
 ```
 
-Procedimiento para clonar repositorio:
+> [!TIP]
+> Procedimiento para clonar repositorio:
 
-1. En GitHub.com, navega a la página principal del repositorio ⌨
+1. En **GitHub.com**, navega a la página principal del repositorio ⌨
 
-2. Encima de la lista de archivos, haz clic en < > 
+2. Encima de la lista de archivos, haz clic en el icono **< >** 
 
-3. Copia la dirección URL del repositorio ❐
+3. Copia la dirección URL del repositorio **❐**
 
 4. En la terminal utilizar el siguiente comando:
+
+> [!CAUTION]
+> Compruebe previamente que tiene previamente el controlador de versiones necesario instalado o posee un **token** de la *API* de **GitHub**.
 
 `HTTPS`
 ```
@@ -84,10 +87,9 @@ git@github.com:SaruGGS/saruggs.github.io.git
 gh repo clone SaruGGS/saruggs.github.io
 ```
 
-## Lenguajes de programación utilizados: 
+## Lenguajes de programación y tecnologías utilizadas: 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflareworkers/cloudflareworkers-original-wordmark.svg"  width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" width="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="100"  />
-          
 
 ## Creadores del proyecto:
 
