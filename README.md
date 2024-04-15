@@ -1,6 +1,6 @@
 # Proyecto FCT - Cloudflare 
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
+🤔 ### En que consiste el módulo FCT: **Formación en Centros de Trabajo y Módulo de Proyecto**. 
 
 Es un módulo profesional que integra las diversas habilidades y conocimientos del currículum del ciclo formativo, tanto en su vertiente laboral, como en el ejercicio profesional y la gestión empresarial. El objetivo de este proyecto es investigar y desarrollar un producto tecnológico de carácter empresarial que reuna los aprendizaje de los diferentes módulos del ciclo superior de Administración de Sistemas Informáticos en Red como solución comercial para los centros de trabajo donde se realizan las prácticas.
 
