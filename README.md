@@ -4,13 +4,16 @@
 
 ### ¿En que consiste el módulo FCT: **Formación en Centros de Trabajo y Módulo de Proyecto**? 
 
-Es un módulo profesional que integra las diversas **habilidades** y **conocimientos** del currículum del ciclo formativo, tanto en su *vertiente laboral*, como en el ejercicio profesional y la *gestión empresarial*. El **objetivo** de este proyecto es `investigar` y `desarrollar` un **producto tecnológico** de carácter empresarial que *reuna los aprendizaje* de los diferentes módulos del ciclo superior de **Administración de Sistemas Informáticos en Red** como *solución comercial* para los centros de trabajo donde se realizan las prácticas.
+Es un módulo profesional que integra las diversas **habilidades** y **conocimientos** del currículum del ciclo formativo, tanto en su *vertiente laboral*, como en el ejercicio profesional y la *gestión empresarial*. 
+
+El **objetivo** de este proyecto es `investigar` y `desarrollar` un **producto tecnológico** de carácter empresarial que *reuna los aprendizaje* de los diferentes módulos del ciclo superior de **Administración de Sistemas Informáticos en Red** como *solución comercial* para los centros de trabajo donde se realizan las prácticas.
 
 ## Cloudflare
 
 Es una plataforma global en la *nube* diseñada para que todos los recursos conectados a *Internet* sean **seguros**, **privados**, **rápidos** y **fiables**.
 
 ☁️ Link del servicio: [Cloudflare](https://www.cloudflare.com/) 
+
 
 > [!NOTE]
 > **Protege y acelera tus propiedades web**.
@@ -23,7 +26,9 @@ Es una plataforma global en la *nube* diseñada para que todos los recursos cone
 
 ## Desarrollo del Proyecto
 
-Este proyecto ha sido desarrollado mediante una página web, implementando la plataforma `Cloudflare`, con el fin de integrar todo tipo de servicios y soluciones de ciberseguridad en un entorno web interconectado con múliples nodos/servidores fácil de administrar desde cualquier motor de búsqueda. Por otro lado hemos desarrollado nuestro proyecto en diferentes sistemas virtualizados para realizar prácticas de pentesting con el objetivo de investigar y analizar la disponibilidad de nuestra infraestructura.  
+Este proyecto ha sido desarrollado mediante una página web, implementando la plataforma `Cloudflare`, con el fin de integrar todo tipo de servicios y soluciones de ciberseguridad en un entorno web interconectado con múliples nodos/servidores fácil de administrar desde cualquier motor de búsqueda. 
+
+Por otro lado hemos desarrollado nuestro proyecto en diferentes sistemas virtualizados para realizar prácticas de pentesting con el objetivo de investigar y analizar la disponibilidad de nuestra infraestructura.  
 
 > [!TIP]
 > Recursos utilizados:
@@ -32,7 +37,9 @@ Este proyecto ha sido desarrollado mediante una página web, implementando la pl
 
 🖱️ Apoya al [Autor](https://dribbble.com/sergeymelnik) original.
 
-Este proyecto se ha realizado utilizando recursos de código abierto y libres de uso publicados en Internet, hemos decidido crear nuestro proyecto bjo el menor coste posible, adquiriendo unicamente un domin name para demostrar las capacidades de investigación y administración de las diferentes tecnologías que hemos adquirido tras finalizar el Ciclo Superior. Por otro lado, limitando el coste de los servicios que hemos decidido utilizar lo minimo posible, también podemos demostrar que se pueden implementar soluciones seguras como `Cloudflare` donde la verdadera limitación es la imaginación y las ganas de aprender.
+Este proyecto se ha realizado utilizando recursos de código abierto y libres de uso publicados en Internet, hemos decidido crear nuestro proyecto bjo el menor coste posible, adquiriendo unicamente un domin name para demostrar las capacidades de investigación y administración de las diferentes tecnologías que hemos adquirido tras finalizar el Ciclo Superior. 
+
+Por otro lado, limitando el coste de los servicios que hemos decidido utilizar lo minimo posible, también podemos demostrar que se pueden implementar soluciones seguras como `Cloudflare` donde la verdadera limitación es la imaginación y las ganas de aprender.
 
 **Filosofia del proyecto:** 
 
