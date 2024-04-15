@@ -1,6 +1,6 @@
 # Proyecto FCT - Cloudflare 
 
-⭐ Link del proyecto: [Cloudflare](https://proyectocloudflare.com/) 
+⭐ **Link del proyecto:** [Cloudflare](https://proyectocloudflare.com/) 
 
 ### ¿En que consiste el módulo FCT: **Formación en Centros de Trabajo y Módulo de Proyecto**? 
 
