@@ -1,5 +1,7 @@
 # Proyecto FCT - Cloudflare 
 
+⭐ Link del proyecto: [Cloudflare](https://proyectocloudflare.com/) 
+
 ### ¿En que consiste el módulo FCT: **Formación en Centros de Trabajo y Módulo de Proyecto**? 
 
 Es un módulo profesional que integra las diversas habilidades y conocimientos del currículum del ciclo formativo, tanto en su vertiente laboral, como en el ejercicio profesional y la gestión empresarial. El objetivo de este proyecto es investigar y desarrollar un producto tecnológico de carácter empresarial que reuna los aprendizaje de los diferentes módulos del ciclo superior de Administración de Sistemas Informáticos en Red como solución comercial para los centros de trabajo donde se realizan las prácticas.
@@ -19,7 +21,6 @@ Es una plataforma global en la *nube* diseñada para que todos los recursos cone
 
 -  La red global en la nube más rápida para aplicaciones web: **Red global** diseñada para optimizar la **seguridad**, el **rendimiento** y la **fiabilidad**, sin la carga de las tecnologías heredadas.
 
-⭐ Link del proyecto: [Cloudflare](https://proyectocloudflare.com/) 
 
 ## Desarrollo del Proyecto
 
