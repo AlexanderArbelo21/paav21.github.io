@@ -33,6 +33,7 @@ Por otro lado hemos desarrollado nuestro proyecto en diferentes sistemas virtual
 > [!TIP]
 > Recursos utilizados:
 
+
 ✏️ Plantilla página web: [Código fuente](https://github.com/BuckyMaler/global).
 
 🖱️ Apoya al [Autor](https://dribbble.com/sergeymelnik) original.
