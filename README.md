@@ -11,8 +11,8 @@ Es una plataforma global en la *nube* diseñada para que todos los recursos cone
 ☁️ Link del servicio: [Cloudflare](https://www.cloudflare.com/)) 
 
 > [!NOTE]
-> Protege y acelera tus propiedades web:
-
+> **Protege y acelera tus propiedades web**:
+> 
 > Protege y acelera tus aplicaciones, **API** y **sitios web** en minutos dirigiendo tu **DNS** a `Cloudflare`.
 > Sin desventajas para el rendimiento: Elimina la **latencia** causada por la **seguridad** integrando los servicios de rendimiento de `Cloudflare`.
 > La red global en la nube más rápida para aplicaciones web: **Red global** diseñada para optimizar la **seguridad**, el **rendimiento** y la **fiabilidad**, sin la carga de las tecnologías heredadas.
