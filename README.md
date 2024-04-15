@@ -15,8 +15,6 @@ Es una plataforma global en la *nube* diseñada para que todos los recursos cone
 > [!NOTE]
 > **Protege y acelera tus propiedades web**.
 
-> [!IMPORTANT]
-> 
 🔐 Protege y acelera tus aplicaciones, **API** y **sitios web** en minutos dirigiendo tu **DNS** a `Cloudflare`.
 >
 📈 Sin desventajas para el rendimiento: Elimina la **latencia** causada por la **seguridad** integrando los servicios de rendimiento de `Cloudflare`
