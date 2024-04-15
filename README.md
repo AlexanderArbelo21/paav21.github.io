@@ -1,23 +1,22 @@
 # Proyecto FCT - Cloudflare 
 
-### En que consiste el módulo FCT: **Formación en Centros de Trabajo y Módulo de Proyecto**. 
+### ¿En que consiste el módulo FCT: **Formación en Centros de Trabajo y Módulo de Proyecto**? 
 
 Es un módulo profesional que integra las diversas habilidades y conocimientos del currículum del ciclo formativo, tanto en su vertiente laboral, como en el ejercicio profesional y la gestión empresarial. El objetivo de este proyecto es investigar y desarrollar un producto tecnológico de carácter empresarial que reuna los aprendizaje de los diferentes módulos del ciclo superior de Administración de Sistemas Informáticos en Red como solución comercial para los centros de trabajo donde se realizan las prácticas.
-
-⭐ Link del proyecto: [Cloudflare](https://proyectocloudflare.com/) 
 
 ## Cloudflare
 
 Es una plataforma global en la *nube* diseñada para que todos los recursos conectados a *Internet* sean **seguros**, **privados**, **rápidos** y **fiables**.
 
-- Protege y acelera tus propiedades web:
-Protege y acelera tus aplicaciones, **API** y **sitios web** en minutos dirigiendo tu **DNS** a `Cloudflare`.
+☁️ Link del servicio: [Cloudflare](https://www.cloudflare.com/)) 
 
-- Sin desventajas para el rendimiento:
-Elimina la **latencia** causada por la **seguridad** integrando los servicios de rendimiento de `Cloudflare`.
+> [!NOTE]
+> Protege y acelera tus propiedades web:
+> Protege y acelera tus aplicaciones, **API** y **sitios web** en minutos dirigiendo tu **DNS** a `Cloudflare`.
+> Sin desventajas para el rendimiento: Elimina la **latencia** causada por la **seguridad** integrando los servicios de rendimiento de `Cloudflare`.
+> La red global en la nube más rápida para aplicaciones web: **Red global** diseñada para optimizar la **seguridad**, el **rendimiento** y la **fiabilidad**, sin la carga de las tecnologías heredadas.
 
-- La red global en la nube más rápida para aplicaciones web:
-**Red global** diseñada para optimizar la **seguridad**, el **rendimiento** y la **fiabilidad**, sin la carga de las tecnologías heredadas.
+⭐ Link del proyecto: [Cloudflare](https://proyectocloudflare.com/) 
 
 ## Desarrollo del Proyecto
 
