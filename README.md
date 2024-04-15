@@ -25,19 +25,21 @@ Es una plataforma global en la *nube* diseñada para que todos los recursos cone
 
 Este proyecto ha sido desarrollado mediante una página web, implementando la plataforma `Cloudflare`, con el fin de integrar todo tipo de servicios y soluciones de ciberseguridad en un entorno web interconectado con múliples nodos/servidores fácil de administrar desde cualquier motor de búsqueda. Por otro lado hemos desarrollado nuestro proyecto en diferentes sistemas virtualizados para realizar prácticas de pentesting con el objetivo de investigar y analizar la disponibilidad de nuestra infraestructura.  
 
-## Recursos utilizados
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+Este proyecto se ha realizado utilizando recursos de código abierto y libres de uso publicados en Internet, hemos decidido crear nuestro proyecto bjo el menor coste posible, adquiriendo unicamente un domin name para demostrar las capacidades de investigación y administración de las diferentes tecnologías que hemos adquirido tras finalizar el Ciclo Superior. Por otro lado, limitando el coste de los servicios que hemos decidido utilizar lo minimo posible, también podemos demostrar que se pueden implementar soluciones seguras como `Cloudflare` donde la verdadera limitación es la imaginación y las ganas de aprender.
 
 **Filosofia del proyecto:** 
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ~ Open Source, Open Mind...
 
-Este proyecto se ha realizado utilizando recursos de código abierto y libres de uso publicados en Internet, hemos decidido crear nuestro proyecto bjo el menor coste posible, adquiriendo unicamente un domin name para demostrar las capacidades de investigación y administración de las diferentes tecnologías que hemos adquirido tras finalizar el Ciclo Superior. Por otro lado, limitando el coste de los servicios que hemos decidido utilizar, también podemos demostrar que se pueden implementar soluciones seguras como `Cloudflare` donde la verdadera limitación es la imaginación y las ganas de aprender.
+> [!TIP]
+> ## Recursos utilizados
 
-- Plantilla página web:
+✏️ Plantilla página web: [Código fuente](https://github.com/BuckyMaler/global).
 
-Descarga el [Código fuente](https://github.com/BuckyMaler/global).
-
-Apoya al [Autor](https://dribbble.com/sergeymelnik) original.
+🖱️ Apoya al [Autor](https://dribbble.com/sergeymelnik) original.
 
 ## Descarga del proyecto
 
