@@ -8,7 +8,7 @@ Es un módulo profesional que integra las diversas habilidades y conocimientos d
 
 Es una plataforma global en la *nube* diseñada para que todos los recursos conectados a *Internet* sean **seguros**, **privados**, **rápidos** y **fiables**.
 
-☁️ Link del servicio: [Cloudflare](https://www.cloudflare.com/)) 
+☁️ Link del servicio: [Cloudflare](https://www.cloudflare.com/) 
 
 > [!NOTE]
 > **Protege y acelera tus propiedades web**:
