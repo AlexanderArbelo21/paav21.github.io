@@ -28,19 +28,16 @@ Es una plataforma global en la *nube* diseñada para que todos los recursos cone
 
 Este proyecto ha sido desarrollado mediante una página web, implementando la plataforma `Cloudflare`, con el fin de integrar todo tipo de servicios y soluciones de ciberseguridad en un entorno web interconectado con múliples nodos/servidores fácil de administrar desde cualquier motor de búsqueda. 
 
-Por otro lado hemos desarrollado nuestro proyecto en diferentes sistemas virtualizados para realizar prácticas de pentesting con el objetivo de investigar y analizar la disponibilidad de nuestra infraestructura.  
+Por otro lado hemos desarrollado nuestro proyecto en diferentes *sistemas virtualizados* para realizar pruebas de *pentesting* con el objetivo de **investigar y analizar la disponibilidad** de nuestra infraestructura utilizando `Cloudflare` como **CDN**.  
 
-> [!TIP]
+> [!NOTE]
 > Recursos utilizados:
-
 
 ✏️ Plantilla página web: [Código fuente](https://github.com/BuckyMaler/global).
 
 🖱️ Apoya al [Autor](https://dribbble.com/sergeymelnik) original.
 
-Este proyecto se ha realizado utilizando recursos de código abierto y libres de uso publicados en Internet, hemos decidido crear nuestro proyecto bjo el menor coste posible, adquiriendo unicamente un domin name para demostrar las capacidades de investigación y administración de las diferentes tecnologías que hemos adquirido tras finalizar el Ciclo Superior. 
-
-Por otro lado, limitando el coste de los servicios que hemos decidido utilizar lo minimo posible, también podemos demostrar que se pueden implementar soluciones seguras como `Cloudflare` donde la verdadera limitación es la imaginación y las ganas de aprender.
+Este proyecto se ha realizado utilizando recursos de **código abierto** publicados en **Internet**, hemos decidido crear nuestro proyecto bajo el menor coste posible, adquiriendo unicamente un nombre de dominio en la plataforma `Hostinguer` y una subscripción de `Cloudflare-Workers` para demostrar las capacidades de *investigación* y* administración* de las diferentes tecnologías que hemos adquirido tras finalizar el Ciclo Superior, a su ver permitiendo que cualquiera pueda realizar nuestro proyecto sin limitaciones. Por otro lado, limitando el coste de los servicios que hemos decidido utilizar lo minimo posible, también podemos demostrar que se pueden implementar *soluciones seguras* como `Cloudflare` sin costes.
 
 **Filosofia del proyecto:** 
 
@@ -51,7 +48,7 @@ Por otro lado, limitando el coste de los servicios que hemos decidido utilizar l
 
 :octocat: Para descargar el proyecto se requiere previamente instalar el controlador de versiones [Git](https://Git-scm.com/downloads).
 
-`GNU/Linux`
+### GNU/Linux
 
 🐧 **Debian/Ubuntu**
 
@@ -59,7 +56,7 @@ Por otro lado, limitando el coste de los servicios que hemos decidido utilizar l
 apt-get install git
 ```
 
-`Microsoft Windows`
+### Microsoft Windows
 
 🪟 **PowerShell**
 
@@ -79,7 +76,7 @@ winget install --id Git.Git -e --source winget
 4. En la terminal utilizar el siguiente comando:
 
 > [!CAUTION]
-> Compruebe previamente que tiene  el controlador de versiones necesario instalado o posee un **token** de la *API* de **GitHub**.
+> Compruebe previamente que tieneel controlador de versiones necesario instalado o posee un **token** de la *API* de **GitHub** para conectarse desde la terminal. Posteriormente seleccione el protocolo de descarga que prefiera para clonar el repositorio.
 
 `HTTPS`
 ```
