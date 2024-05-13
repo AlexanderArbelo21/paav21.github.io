@@ -44,6 +44,18 @@ Este proyecto se ha realizado utilizando recursos de **código abierto** publica
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ~ Open Source, Open Mind...
 
 
+## Aplicaciones y servicios del Proyecto
+
+🦥 [Worker Pages](saruggs-github-io.pages.dev): saruggs-github-io.pages.dev
+
+🦆 [LocalWordpress](https://lpwordpress.pages.dev/): lpwordpress.pages.dev
+
+🦖 [Turso DB](https://tursodb.saruhacking.workers.dev/): tursodb.saruhacking.workers.dev
+
+🐝 [D1 Data Base](https://d1.saruhacking.workers.dev/): d1.saruhacking.workers.dev
+
+
+
 ## Descarga del proyecto
 
 :octocat: Para descargar el proyecto se requiere previamente instalar el controlador de versiones [Git](https://Git-scm.com/downloads).
