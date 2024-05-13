@@ -44,7 +44,6 @@ Este proyecto se ha realizado utilizando recursos de **código abierto** publica
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ~ Open Source, Open Mind... :octocat:
 
 
-
 ## Aplicaciones creadas en el Proyecto:
 
 🦥 **Worker Pages**: [saruggs-github-io.pages.dev](saruggs-github-io.pages.dev)
@@ -69,7 +68,7 @@ Este proyecto se ha realizado utilizando recursos de **código abierto** publica
 
 ## Descarga del proyecto
 
-:octocat: Para descargar el proyecto se requiere previamente instalar el controlador de versiones [Git](https://Git-scm.com/downloads).
+:atom: Para descargar el proyecto se requiere previamente instalar el controlador de versiones [Git](https://Git-scm.com/downloads).
 
 ### GNU/Linux
 
@@ -127,13 +126,6 @@ gh repo clone SaruGGS/saruggs.github.io
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="100" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100" />
           
-          
-          
-          
-          
-          
-
-
 
 ## Creadores del proyecto:
 
