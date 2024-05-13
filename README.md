@@ -46,15 +46,25 @@ Este proyecto se ha realizado utilizando recursos de **código abierto** publica
 
 ## Aplicaciones y servicios del Proyecto
 
-🦥 [Worker Pages](saruggs-github-io.pages.dev): saruggs-github-io.pages.dev
+🦥 Worker Pages: [saruggs-github-io.pages.dev](saruggs-github-io.pages.dev)
 
-🦆 [LocalWordpress](https://lpwordpress.pages.dev/): lpwordpress.pages.dev
+🐖 Cloud [cloud.saruhacking.workers.dev](https://cloud.saruhacking.workers.dev/)
 
-🦖 [Turso DB](https://tursodb.saruhacking.workers.dev/): tursodb.saruhacking.workers.dev
+🦆 LocalWordpress: [lpwordpress.pages.dev](https://lpwordpress.pages.dev/)
 
-🐝 [D1 Data Base](https://d1.saruhacking.workers.dev/): d1.saruhacking.workers.dev
+🐤 TursoDB: [tursodb.saruhacking.workers.dev](https://tursodb.saruhacking.workers.dev/)
 
+🐝 D1 DataBase: [d1.saruhacking.workers.dev](https://d1.saruhacking.workers.dev/)
 
+🐙 R2 Explorer: [proyectocloudflare.saruhacking.workers.dev](https://proyectocloudflare.saruhacking.workers.dev/R2/files)
+
+🐪 To-do List: [list.saruhacking.workers.dev](https://list.saruhacking.workers.dev/)
+
+🦜Traductor: [traductor.saruhacking.workers.dev](https://traductor.saruhacking.workers.dev/)
+
+🦔 Art Generator: [art.saruhacking.workers.dev](https://art.saruhacking.workers.dev/)
+
+🐋 Tunnel Docker: [](apache.proyectocloudflare.com)
 
 ## Descarga del proyecto
 
