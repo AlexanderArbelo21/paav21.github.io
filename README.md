@@ -44,27 +44,28 @@ Este proyecto se ha realizado utilizando recursos de **código abierto** publica
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ~ Open Source, Open Mind...
 
 
-## Aplicaciones y servicios del Proyecto
 
-🦥 Worker Pages: [saruggs-github-io.pages.dev](saruggs-github-io.pages.dev)
+## Aplicaciones creadas en el Proyecto:
 
-🐖 Cloud [cloud.saruhacking.workers.dev](https://cloud.saruhacking.workers.dev/)
+🦥 **Worker Pages**: [saruggs-github-io.pages.dev](saruggs-github-io.pages.dev)
 
-🦆 LocalWordpress: [lpwordpress.pages.dev](https://lpwordpress.pages.dev/)
+🐖 **Cloud** [cloud.saruhacking.workers.dev](https://cloud.saruhacking.workers.dev/)
 
-🐤 TursoDB: [tursodb.saruhacking.workers.dev](https://tursodb.saruhacking.workers.dev/)
+🦆 **LocalWordpress**: [lpwordpress.pages.dev](https://lpwordpress.pages.dev/)
 
-🐝 D1 DataBase: [d1.saruhacking.workers.dev](https://d1.saruhacking.workers.dev/)
+🐤 **TursoDB**: [tursodb.saruhacking.workers.dev](https://tursodb.saruhacking.workers.dev/)
 
-🐙 R2 Explorer: [proyectocloudflare.saruhacking.workers.dev](https://proyectocloudflare.saruhacking.workers.dev/R2/files)
+🐝 **D1 DataBase**: [d1.saruhacking.workers.dev](https://d1.saruhacking.workers.dev/)
 
-🐪 To-do List: [list.saruhacking.workers.dev](https://list.saruhacking.workers.dev/)
+🐙 **R2 Explorer**: [proyectocloudflare.saruhacking.workers.dev](https://proyectocloudflare.saruhacking.workers.dev/R2/files)
 
-🦜Traductor: [traductor.saruhacking.workers.dev](https://traductor.saruhacking.workers.dev/)
+🐪 **To-do List**: [list.saruhacking.workers.dev](https://list.saruhacking.workers.dev/)
 
-🦔 Art Generator: [art.saruhacking.workers.dev](https://art.saruhacking.workers.dev/)
+🦜**Traductor**: [traductor.saruhacking.workers.dev](https://traductor.saruhacking.workers.dev/)
 
-🐋 Tunnel Docker: [](apache.proyectocloudflare.com)
+🦔 **Art Generator**: [art.saruhacking.workers.dev](https://art.saruhacking.workers.dev/)
+
+🐋 **Tunnel Docker**: [apache.proyectocloudflare.com](apache.proyectocloudflare.com)
 
 ## Descarga del proyecto
 
