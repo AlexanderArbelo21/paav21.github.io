@@ -46,7 +46,7 @@ Este proyecto se ha realizado utilizando recursos de **código abierto** publica
 
 ## Aplicaciones creadas en el Proyecto:
 
-🦥 **Worker Pages**: [saruggs-github-io.pages.dev](saruggs-github-io.pages.dev)
+🦥 **Worker Pages**: [saruggs-github-io.pages.dev](https://saruggs-github-io.pages.dev)
 
 🐖 **Cloud**: [cloud.saruhacking.workers.dev](https://cloud.saruhacking.workers.dev/)
 
@@ -64,7 +64,7 @@ Este proyecto se ha realizado utilizando recursos de **código abierto** publica
 
 🦔 **Art Generator**: [art.saruhacking.workers.dev](https://art.saruhacking.workers.dev/)
 
-🐋 **Tunnel Docker**: [apache.proyectocloudflare.com](apache.proyectocloudflare.com)
+🐋 **Tunnel Docker**: [apache.proyectocloudflare.com](https://apache.proyectocloudflare.com)
 
 ## Descarga del proyecto
 
