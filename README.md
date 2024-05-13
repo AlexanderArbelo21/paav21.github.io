@@ -41,7 +41,7 @@ Este proyecto se ha realizado utilizando recursos de **código abierto** publica
 
 **Filosofia del proyecto:** 
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ~ Open Source, Open Mind...
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ~ Open Source, Open Mind... :octocat:
 
 
 
