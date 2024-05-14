@@ -48,7 +48,7 @@ Por otro lado, limitando el coste de los servicios que hemos decidido utilizar l
 
 ## Aplicaciones creadas en el Proyecto:
 
-${\color{red}Some \space text \space here}$ <br>
+${\color{pink}Username: \space Admin1 \space Password: \space Admin1}$ <br>
 ${\color{green}Some \space text \space here}$ <br>
 ${\color{lightgreen}Light \space Green}$ <br>
 
@@ -78,7 +78,7 @@ ${\color{lightgreen}Light \space Green}$ <br>
 
 ## Descarga del proyecto
 
-:atom: Para descargar el proyecto se requiere previamente instalar el controlador de versiones [Git](https://Git-scm.com/downloads).
+Para descargar el proyecto se requiere previamente instalar el controlador de versiones [Git](https://Git-scm.com/downloads).
 
 ### GNU/Linux
 
