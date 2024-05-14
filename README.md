@@ -48,9 +48,11 @@ Por otro lado, limitando el coste de los servicios que hemos decidido utilizar l
 
 ## Aplicaciones creadas en el Proyecto:
 
-🦥 **Worker Pages**: [saruggs-github-io.pages.dev](https://saruggs-github-io.pages.dev)
+> [!IMPORTANT]
+> `Username:` Admin1 `Password:` Admin1
+🐖 **Cloud**: [cloud.saruhacking.workers.dev](https://cloud.saruhacking.workers.dev/) 
 
-🐖 **Cloud**: [cloud.saruhacking.workers.dev](https://cloud.saruhacking.workers.dev/) `Username:` *Admin1* `Password:` *Admin1*
+🦥 **Worker Pages**: [saruggs-github-io.pages.dev](https://saruggs-github-io.pages.dev)
 
 🦆 **LocalWordpress**: [lpwordpress.pages.dev](https://lpwordpress.pages.dev/)
 
