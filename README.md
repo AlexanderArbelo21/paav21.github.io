@@ -37,7 +37,9 @@ Por otro lado hemos desarrollado nuestro proyecto en diferentes *sistemas virtua
 
 🖱️ Apoya al [Autor](https://dribbble.com/sergeymelnik) original.
 
-Este proyecto se ha realizado utilizando recursos de **código abierto** publicados en **Internet**, hemos decidido crear nuestro proyecto bajo el menor coste posible, adquiriendo unicamente un nombre de dominio en la plataforma `Hostinguer` y una subscripción de `Cloudflare-Workers` para demostrar las capacidades de *investigación* y* administración* de las diferentes tecnologías que hemos adquirido tras finalizar el Ciclo Superior, a su ver permitiendo que cualquiera pueda realizar nuestro proyecto sin limitaciones. Por otro lado, limitando el coste de los servicios que hemos decidido utilizar lo minimo posible, también podemos demostrar que se pueden implementar *soluciones seguras* como `Cloudflare` sin costes.
+Este proyecto se ha realizado utilizando recursos de **código abierto** publicados en **Internet**, hemos decidido crear nuestro proyecto bajo el menor coste posible, adquiriendo unicamente un nombre de dominio en la plataforma `Hostinguer` y una subscripción de `Cloudflare-Workers` para demostrar las capacidades de *investigación* y *administración* de las diferentes tecnologías que hemos adquirido tras finalizar el Ciclo Superior. Documentando el proyecto para que cualquiera pueda realizarlo sin limitaciones. 
+
+Por otro lado, limitando el coste de los servicios que hemos decidido utilizar lo minimo posible, también podemos demostrar que se pueden implementar *soluciones seguras* como `Cloudflare` sin costes.
 
 **Filosofia del proyecto:** 
 
@@ -48,7 +50,7 @@ Este proyecto se ha realizado utilizando recursos de **código abierto** publica
 
 🦥 **Worker Pages**: [saruggs-github-io.pages.dev](https://saruggs-github-io.pages.dev)
 
-🐖 **Cloud**: [cloud.saruhacking.workers.dev](https://cloud.saruhacking.workers.dev/)
+🐖 **Cloud**: [cloud.saruhacking.workers.dev](https://cloud.saruhacking.workers.dev/) **Username:** *Admin1* **Password:** *Admin1* 
 
 🦆 **LocalWordpress**: [lpwordpress.pages.dev](https://lpwordpress.pages.dev/)
 
