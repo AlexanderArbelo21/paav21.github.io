@@ -43,7 +43,7 @@ Por otro lado, limitando el coste de los servicios que hemos decidido utilizar l
 
 **Filosofia del proyecto:** 
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ~ Open Source, Open Mind... :octocat:
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ~ *Open Source, Open Mind...* :octocat:
 
 
 ## Aplicaciones creadas en el Proyecto:
@@ -134,5 +134,5 @@ gh repo clone SaruGGS/saruggs.github.io
 
 ## Creadores del proyecto:
 
-* Alexander: [GitHub](https://github.com/AlexanderArbelo21)
-* Gabriel: [GitHub](https://github.com/SaruGGS)
+- [x]  Alexander: [GitHub](https://github.com/AlexanderArbelo21)
+- [x] [GitHub](https://github.com/SaruGGS)
