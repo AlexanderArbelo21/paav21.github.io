@@ -18,17 +18,17 @@ Es una plataforma global en la *nube* diseñada para que todos los recursos cone
 > [!NOTE]
 > **Protege y acelera tus propiedades web**:
 
-🔐 Protege y acelera tus aplicaciones, **API** y **sitios web** en minutos dirigiendo tu **DNS** a `Cloudflare`.
+🔐 Protege y acelera tus aplicaciones, **API** y **sitios web** en minutos dirigiendo tu **DNS** a ${\color{orange}Cloudflare \space}$ <br>.
 >
-📈 Sin desventajas para el rendimiento: Elimina la **latencia** causada por la **seguridad** integrando los servicios de rendimiento de `Cloudflare`
+📈 Sin desventajas para el rendimiento: Elimina la **latencia** causada por la **seguridad** integrando los servicios de rendimiento de ${\color{orange}Cloudflare \space}$ <br>.
 >
 🛰️ La red global en la nube más rápida para aplicaciones web: **Red global** diseñada para optimizar la **seguridad**, el **rendimiento** y la **fiabilidad**, sin la carga de las tecnologías heredadas.
 
 ## Desarrollo del Proyecto
 
-Este proyecto ha sido desarrollado mediante una página web, implementando la plataforma `Cloudflare`, con el fin de integrar todo tipo de servicios y soluciones de ciberseguridad en un entorno web interconectado con múliples nodos/servidores fácil de administrar desde cualquier motor de búsqueda. 
+Este proyecto ha sido desarrollado mediante una página web, implementando la plataforma ${\color{orange}Cloudflare \space}$ <br>, con el fin de integrar todo tipo de servicios y soluciones de ciberseguridad en un entorno web interconectado con múliples nodos/servidores fácil de administrar desde cualquier motor de búsqueda. 
 
-Por otro lado hemos desarrollado nuestro proyecto en diferentes *sistemas virtualizados* para realizar pruebas de *pentesting* con el objetivo de **investigar y analizar la disponibilidad** de nuestra infraestructura utilizando `Cloudflare` como **CDN**.  
+Por otro lado hemos desarrollado nuestro proyecto en diferentes *sistemas virtualizados* para realizar pruebas de *pentesting* con el objetivo de **investigar y analizar la disponibilidad** de nuestra infraestructura utilizando ${\color{orange}Cloudflare \space}$ <br> como **CDN**.  
 
 > [!NOTE]
 > Recursos utilizados:
@@ -39,7 +39,7 @@ Por otro lado hemos desarrollado nuestro proyecto en diferentes *sistemas virtua
 
 Este proyecto se ha realizado utilizando recursos de **código abierto** publicados en **Internet**, hemos decidido crear nuestro proyecto bajo el menor coste posible, adquiriendo unicamente un nombre de dominio en la plataforma `Hostinguer` y una subscripción de `Cloudflare-Workers` para demostrar las capacidades de *investigación* y *administración* de las diferentes tecnologías que hemos adquirido tras finalizar el Ciclo Superior. Documentando el proyecto para que cualquiera pueda realizarlo sin limitaciones. 
 
-Por otro lado, limitando el coste de los servicios que hemos decidido utilizar lo minimo posible, también podemos demostrar que se pueden implementar *soluciones seguras* como `Cloudflare` sin costes.
+Por otro lado, limitando el coste de los servicios que hemos decidido utilizar lo minimo posible, también podemos demostrar que se pueden implementar *soluciones seguras* como ${\color{orange}Cloudflare \space}$ <br> sin costes.
 
 **Filosofia del proyecto:** 
 
@@ -48,7 +48,7 @@ Por otro lado, limitando el coste de los servicios que hemos decidido utilizar l
 
 ## Aplicaciones creadas en el Proyecto:
 
-${\color{orange}Username: \space Admin1 \space Password: \space Admin1}$ <br>
+${\color{orange}Cloudflare \space}$ <br>
 ${\color{green}Some \space text \space here}$ <br>
 ${\color{lightgreen}Light \space Green}$ <br>
 
