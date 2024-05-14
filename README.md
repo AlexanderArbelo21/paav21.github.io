@@ -49,7 +49,7 @@ Por otro lado, limitando el coste de los servicios que hemos decidido utilizar l
 ## Aplicaciones creadas en el Proyecto:
 
 > [!IMPORTANT]
-> Para utilizar las aplicaciones web debes utilizar `Username:` Admin1 `Password:` Admin1
+> Para utilizar las aplicaciones web debes utilizar **Username:** `Admin1` **Password:** `Admin1`.
  
 🐖 **Cloud**: [cloud.saruhacking.workers.dev](https://cloud.saruhacking.workers.dev/) 
 
