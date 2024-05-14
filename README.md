@@ -134,6 +134,6 @@ gh repo clone SaruGGS/saruggs.github.io
 
 ## Creadores del proyecto:
 
-- Pedro Alexander Arbelo Vodrazka: [GitHub](https://github.com/AlexanderArbelo21)
+-  **Pedro Alexander Arbelo Vodrazka:** [GitHub](https://github.com/AlexanderArbelo21)
   
-- Gabriel Gutiérrez Santos: [GitHub](https://github.com/SaruGGS)
+- **Gabriel Gutiérrez Santos:** [GitHub](https://github.com/SaruGGS)
