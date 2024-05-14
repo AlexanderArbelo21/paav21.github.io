@@ -48,15 +48,10 @@ Por otro lado, limitando el coste de los servicios que hemos decidido utilizar l
 
 ## Aplicaciones creadas en el Proyecto:
 
-${\color{orange}Cloudflare \space}$ <br>
-${\color{green}Some \space text \space here}$ <br>
-${\color{lightgreen}Light \space Green}$ <br>
-
-
 > [!IMPORTANT]
-> `Username:` Admin1 `Password:` Admin1
-> 
-> 🐖 **Cloud**: [cloud.saruhacking.workers.dev](https://cloud.saruhacking.workers.dev/) 
+> Para utilizar las aplicaciones web debes utilizar `Username:` Admin1 `Password:` Admin1
+ 
+🐖 **Cloud**: [cloud.saruhacking.workers.dev](https://cloud.saruhacking.workers.dev/) 
 
 🦥 **Worker Pages**: [saruggs-github-io.pages.dev](https://saruggs-github-io.pages.dev)
 
