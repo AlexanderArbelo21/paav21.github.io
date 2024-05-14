@@ -48,7 +48,7 @@ Por otro lado, limitando el coste de los servicios que hemos decidido utilizar l
 
 ## Aplicaciones creadas en el Proyecto:
 
-${\color{pink}Username: \space Admin1 \space Password: \space Admin1}$ <br>
+${\color{orange}Username: \space Admin1 \space Password: \space Admin1}$ <br>
 ${\color{green}Some \space text \space here}$ <br>
 ${\color{lightgreen}Light \space Green}$ <br>
 
