@@ -18,17 +18,17 @@ Es una plataforma global en la *nube* diseñada para que todos los recursos cone
 > [!NOTE]
 > **Protege y acelera tus propiedades web**:
 
-🔐 Protege y acelera tus aplicaciones, **API** y **sitios web** en minutos dirigiendo tu **DNS** a `Cloudflare`.
+🔐 Protege y acelera tus aplicaciones, **API** y **sitios web** en minutos dirigiendo tu **DNS** a ${\color{orange}Cloudflare \space}$.
 >
-📈 Sin desventajas para el rendimiento: Elimina la **latencia** causada por la **seguridad** integrando los servicios de rendimiento de `Cloudflare`
+📈 Sin desventajas para el rendimiento: Elimina la **latencia** causada por la **seguridad** integrando los servicios de rendimiento de ${\color{orange}Cloudflare \space}$.
 >
 🛰️ La red global en la nube más rápida para aplicaciones web: **Red global** diseñada para optimizar la **seguridad**, el **rendimiento** y la **fiabilidad**, sin la carga de las tecnologías heredadas.
 
 ## Desarrollo del Proyecto
 
-Este proyecto ha sido desarrollado mediante una página web, implementando la plataforma `Cloudflare`, con el fin de integrar todo tipo de servicios y soluciones de ciberseguridad en un entorno web interconectado con múliples nodos/servidores fácil de administrar desde cualquier motor de búsqueda. 
+Este proyecto ha sido desarrollado mediante una página web, implementando la plataforma ${\color{orange}Cloudflare \space}$, con el fin de integrar todo tipo de servicios y soluciones de ciberseguridad en un entorno web interconectado con múliples nodos/servidores fácil de administrar desde cualquier motor de búsqueda. 
 
-Por otro lado hemos desarrollado nuestro proyecto en diferentes *sistemas virtualizados* para realizar pruebas de *pentesting* con el objetivo de **investigar y analizar la disponibilidad** de nuestra infraestructura utilizando `Cloudflare` como **CDN**.  
+Por otro lado hemos desarrollado nuestro proyecto en diferentes *sistemas virtualizados* para realizar pruebas de *pentesting* con el objetivo de **investigar y analizar la disponibilidad** de nuestra infraestructura utilizando ${\color{orange}Cloudflare \space}$ como **CDN**.  
 
 > [!NOTE]
 > Recursos utilizados:
@@ -37,18 +37,23 @@ Por otro lado hemos desarrollado nuestro proyecto en diferentes *sistemas virtua
 
 🖱️ Apoya al [Autor](https://dribbble.com/sergeymelnik) original.
 
-Este proyecto se ha realizado utilizando recursos de **código abierto** publicados en **Internet**, hemos decidido crear nuestro proyecto bajo el menor coste posible, adquiriendo unicamente un nombre de dominio en la plataforma `Hostinguer` y una subscripción de `Cloudflare-Workers` para demostrar las capacidades de *investigación* y* administración* de las diferentes tecnologías que hemos adquirido tras finalizar el Ciclo Superior, a su ver permitiendo que cualquiera pueda realizar nuestro proyecto sin limitaciones. Por otro lado, limitando el coste de los servicios que hemos decidido utilizar lo minimo posible, también podemos demostrar que se pueden implementar *soluciones seguras* como `Cloudflare` sin costes.
+Este proyecto se ha realizado utilizando recursos de **código abierto** publicados en **Internet**, hemos decidido crear nuestro proyecto bajo el menor coste posible, adquiriendo unicamente un nombre de dominio en la plataforma `Hostinguer` y una subscripción de `Cloudflare-Workers` para demostrar las capacidades de *investigación* y *administración* de las diferentes tecnologías que hemos adquirido tras finalizar el Ciclo Superior. Documentando el proyecto para que cualquiera pueda realizarlo sin limitaciones. 
+
+Por otro lado, limitando el coste de los servicios que hemos decidido utilizar lo minimo posible, también podemos demostrar que se pueden implementar *soluciones seguras* como ${\color{orange}Cloudflare \space}$ sin costes.
 
 **Filosofia del proyecto:** 
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ~ Open Source, Open Mind... :octocat:
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ~ *Open Source, Open Mind...* :octocat:
 
 
 ## Aplicaciones creadas en el Proyecto:
 
-🦥 **Worker Pages**: [saruggs-github-io.pages.dev](https://saruggs-github-io.pages.dev)
+> [!IMPORTANT]
+> Para utilizar las aplicaciones web debes utilizar **Username:** `Admin1` **Password:** `Admin1`.
+ 
+🐖 **Cloud**: [cloud.saruhacking.workers.dev](https://cloud.saruhacking.workers.dev/) 
 
-🐖 **Cloud**: [cloud.saruhacking.workers.dev](https://cloud.saruhacking.workers.dev/)
+🦥 **Worker Pages**: [saruggs-github-io.pages.dev](https://saruggs-github-io.pages.dev)
 
 🦆 **LocalWordpress**: [lpwordpress.pages.dev](https://lpwordpress.pages.dev/)
 
@@ -68,7 +73,7 @@ Este proyecto se ha realizado utilizando recursos de **código abierto** publica
 
 ## Descarga del proyecto
 
-:atom: Para descargar el proyecto se requiere previamente instalar el controlador de versiones [Git](https://Git-scm.com/downloads).
+Para descargar el proyecto se requiere previamente instalar el controlador de versiones [Git](https://Git-scm.com/downloads).
 
 ### GNU/Linux
 
@@ -129,5 +134,6 @@ gh repo clone SaruGGS/saruggs.github.io
 
 ## Creadores del proyecto:
 
-* Alexander: [GitHub](https://github.com/AlexanderArbelo21)
-* Gabriel: [GitHub](https://github.com/SaruGGS)
+-  **Pedro Alexander Arbelo Vodrazka:** [GitHub](https://github.com/AlexanderArbelo21)
+  
+- **Gabriel Gutiérrez Santos:** [GitHub](https://github.com/SaruGGS)
